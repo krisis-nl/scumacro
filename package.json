@@ -1,0 +1,23 @@
+{
+  "name": "scumacro",
+  "version": "1.0.0",
+  "description": "Build Razer Synapse macro's from text, rather than through Synapse.",
+  "main": "main.js",
+  "scripts": {
+    "serve": "node -r esm main.js"
+  },
+  "keywords": [
+    "macro",
+    "text-to-keycode",
+    "razer",
+    "tartarus",
+    "blackwidow",
+    "synapse"
+  ],
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "esm": "^3.2.25"
+  },
+  "author": "",
+  "license": "ISC"
+}
